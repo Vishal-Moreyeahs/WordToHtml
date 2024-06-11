@@ -1,0 +1,167 @@
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHt.B90F3C78.Up2Date
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\user\source\repos\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CopyComplete
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CopyComplete
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\user\Downloads\WordToHtmlConsole 1\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHt.B90F3C78.Up2Date
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\user\Downloads\WordToHtmlConsole\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CopyComplete
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\visha\Downloads\WordToHtmlConsole 3\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.exe
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.deps.json
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.runtimeconfig.json
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Irony.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\XLParser.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.AssemblyInfo.cs
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHt.B90F3C78.Up2Date
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\refint\WordToHtmlConsole.dll
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.pdb
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\WordToHtmlConsole.genruntimeconfig.cache
+C:\Users\user\Downloads\WordToHtmlConsole 4\WordToHtmlConsole\WordToHtmlConsole\obj\Debug\net6.0\ref\WordToHtmlConsole.dll
