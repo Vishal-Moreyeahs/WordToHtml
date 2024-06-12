@@ -5,10 +5,10 @@ bool oneTimeAppendHeader = true;
 
 var htmlFile = "C:\\Users\\user\\Downloads\\WordToHtmlConsole 4\\WordToHtmlConsole\\WordToHtmlConsole\\HtmlFiles\\website.html";
 //Append Header from source to destination file
-var sourceFilePath = "C:\\Users\\user\\Downloads\\WordToHtmlConsole 4\\WordToHtmlConsole\\WordToHtmlConsole\\SourceFiles\\Statement-of-Work.docx";
+var sourceFilePath = "C:\\Users\\user\\Downloads\\WordToHtmlConsole 4\\WordToHtmlConsole\\WordToHtmlConsole\\SourceFiles\\Employee handbook (1).docx";
 //var destinationFilePath = "C:\\Users\\visha\\Downloads\\WordToHtmlConsole\\WordToHtmlConsole\\WordToHtmlConsole\\DestinationFiles\\Document_EmailModule.docx";
 
-var isAddPageBreaker = false;
+var isAddPageBreaker = true;
 
 ProcessWordHeader wordHeader = new ProcessWordHeader();
 var isHeaderPresent = wordHeader.DocumentContainsHeader(sourceFilePath);
@@ -40,7 +40,7 @@ int noOfFooterparas = footerProcessDetails.NoOfImages + footerProcessDetails.NoO
 
 ConvertToHtml html = new ConvertToHtml();
 
-var htmlStr = html.ParseDOCX(sourceFilePath,"TestFileName",isHeaderPresent,true,noOfHeaderparas,noOfFooterparas);
+var htmlStr = html.ParseDOCX(sourceFilePath,"TestFileName",isHeaderPresent, isFooterExist, noOfHeaderparas,noOfFooterparas);
 //var imageStr = html.ParseDOCX(destinationFilePath);
 //var images = html.ExtractImages(sourceFilePath);
 
