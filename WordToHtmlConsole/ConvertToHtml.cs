@@ -289,8 +289,8 @@ namespace WordToHtmlConsole
                     if (paragraphs != null && paragraphs.Count >= noOfPara)
                     {
                         // Collect the content of the last 'noOfPara' paragraphs
-                        string mergedContent = string.Join(" ", paragraphs.Skip(paragraphs.Count - noOfPara).Select(p => p.InnerHtml));
-
+                        var lastParagraphs = paragraphs.Skip(paragraphs.Count - noOfPara).ToList();
+                        string mergedContent = string.Join(" ", lastParagraphs.Select(p => p.InnerHtml));
                         // Collect the classes from the last 'noOfPara' paragraphs
                         var classes = new HashSet<string>();
                         foreach (var p in paragraphs.Skip(paragraphs.Count - noOfPara))
@@ -317,6 +317,7 @@ namespace WordToHtmlConsole
                         {
                             newParagraph.SetAttributeValue("class", string.Join(" ", classes));
                         }
+                        newParagraph.SetAttributeValue("style", "margin-top: 15px; margin-bottom: 15px;"); // You can adjust the margin values as needed
 
                         // Add the new paragraph to the div
                         div.AppendChild(newParagraph);
